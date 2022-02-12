@@ -46,7 +46,6 @@ Extend search results and save results in a file
 ## Screenshots
 
 <img src="https://i.ibb.co/Q6hV6H1/jdscrape.png" alt="jdscrape" border="0">
-<img src="https://i.ibb.co/yRNLwjN/usage.gif" alt="usage" border="0">
 <img src="https://i.ibb.co/ynBY5cQ/about.png" alt="about" border="0">
 
 
